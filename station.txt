@@ -1,5 +1,3 @@
-﻿{
   "station": "Seven Sisters",
   "direction": "Inbound",
   "updated_on": "2022-06-20T23:45:16+01:00"
-}
